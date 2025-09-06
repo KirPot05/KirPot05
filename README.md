@@ -58,7 +58,7 @@
 
 ## 📫 Connect with Me
 
-- Leetcode Profile: [https://leetcode.com/u/kiran_potdar](https://leetcode.com/u/kiran_potdar)
+- 🧑‍💻 Leetcode: [https://leetcode.com/u/kiran_potdar](https://leetcode.com/u/kiran_potdar)
 - ✉️ Email: [potdarkiran93@gmail.com](mailto:potdarkiran93@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/kiran-potdar](https://www.linkedin.com/in/kiran-potdar)
 - 🌐 Portfolio: [https://kiran-portfolio-site.vercel.app/](https://kiran-portfolio-site.vercel.app/)
